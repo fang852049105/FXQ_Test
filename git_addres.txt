@@ -1,1 +1,5 @@
 https://github.com/fang852049105/FXQ_Test.git
+
+git add .
+git  commit -m "ĞŞ¸ÄÃèÊö"  
+git push -u origin master  
